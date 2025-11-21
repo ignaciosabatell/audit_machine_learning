@@ -1,6 +1,6 @@
 ## Poyecto de análisis de auditoría con Machine Learning
 
-Este proyecto desarrolla un modelo de *machine learning* para predecir la probabilidad de fraude en auditorías internas. A partir de un conjunto de variables de riesgo (inherente, de control y de detección), junto con puntuaciones sectoriales y métricas específicas de cada área (A, B, C, D, E y F), se genera un clasificador que determina si un caso es **fraudulento** o **no fraudulento**.
+Este proyecto desarrolla un modelo de *machine learning* para predecir la probabilidad de fraude en auditorías internas. A partir de un conjunto de variables de riesgo (inherente, de control y de detección), junto con puntuaciones sectoriales y métricas específicas de cada área, se genera un clasificador que determina si un caso es **fraudulento** o **no fraudulento**.
 
 La aplicación final está implementada en **Streamlit**, permitiendo cargar datos, visualizar correlaciones, ejecutar el modelo y obtener predicciones en tiempo real.
 
