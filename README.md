@@ -96,7 +96,7 @@ streamlit run app.py
 
 ## Dataset ficticio de pruebas
 
-El archivo `test_sample.csv` contiene 30+ filas con valores realistas para las columnas requeridas, incluyendo dos casos no fraudulentos (filas 10 y 12). Lo puedes ampliar en cualquier momento para testear comportamiento del modelo.
+El archivo `test_sample.csv` contiene 30+ filas con valores realistas para las columnas requeridas. Lo puedes ampliar en cualquier momento para testear comportamiento del modelo.
 
 ---
 
